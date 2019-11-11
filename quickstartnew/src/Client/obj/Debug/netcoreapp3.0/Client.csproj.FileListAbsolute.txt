@@ -1,0 +1,14 @@
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.exe
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.dll
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\IdentityModel.dll
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.csproj.CopyComplete
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.dll
+C:\Users\louisTheGreat\Desktop\test\quickstartnew\src\Client\obj\Debug\netcoreapp3.0\Client.pdb

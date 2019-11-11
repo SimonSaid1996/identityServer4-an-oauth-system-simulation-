@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\IdentityServer",
+    "\\src\\IdentityServer\\Properties"
+  ],
+  "SelectedNode": "\\src\\IdentityServer\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
